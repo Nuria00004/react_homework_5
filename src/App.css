@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,25 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* Стили для формы и данных */
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.data {
+  color: #666;
+  font-size: 14px;
 }
